@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+.gap {
+  @apply gap-4 md:gap-6;
+}
+
+@tailwind utilities;
