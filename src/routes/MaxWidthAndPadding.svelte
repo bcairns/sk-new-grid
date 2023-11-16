@@ -3,7 +3,6 @@
     export { _class as class };
 </script>
 
-<div class="max-w-[772px] lg:max-w-[1680px] px-4 md:px-8 lg:px-[120px] mx-auto {_class}"
->
+<div class="max-w-[1504px] px-4 md:px-8 mx-auto {_class}">
     <slot />
 </div>
