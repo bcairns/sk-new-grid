@@ -3,9 +3,8 @@ module.exports = {
 	content: ['./src/**/*.{html,js,svelte,ts}'],
 	theme: {
 		screens: {
-			sm: '600px',
-			md: '840px',
-			lg: '1240px',
+			md: '720px',
+			lg: '1025px',
 			xl: '1440px',
 		},
 		colors: {
