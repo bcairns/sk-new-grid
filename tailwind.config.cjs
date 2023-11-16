@@ -115,6 +115,7 @@ module.exports = {
 			},
 			spacing: {
 				4.5: '1.125rem',
+				15: '3.75rem',
 				sm: 'var(--spacing-sm)',
 				md: 'var(--spacing-md)',
 				lg: 'var(--spacing-lg)',
