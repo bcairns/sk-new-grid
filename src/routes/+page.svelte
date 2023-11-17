@@ -4,7 +4,13 @@
     import TextContainer from "./TextContainer.svelte";
 </script>
 
-<MaxWidthAndPadding class="grid gap grid-cols-2 md:grid-cols-3 my-16">
+<MaxWidthAndPadding class="grid gap grid-cols-2 md:grid-cols-3 xl:grid-cols-4 my-16">
+    <Box />
+    <Box />
+    <Box />
+    <Box />
+    <Box />
+    <Box />
     <Box />
     <Box />
     <Box />
